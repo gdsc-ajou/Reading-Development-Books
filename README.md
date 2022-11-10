@@ -1,4 +1,4 @@
-# 개발책 읽기 스터디
+# 개발책 읽기 스터디 📖
 GDSC Ajou에서 진행하는 개발책 읽기 스터디를 위한 레포지토리입니다.
 
 ## 레포지토리 구조
@@ -29,7 +29,7 @@ commit type은 upload, modify, remove, draft, style 등 commit의 성격을 잘 
 <details>
 <summary>1. 객체지향의 사실과 오해 - 역할, 책임, 협력 관점에서 본 객체지향</summary>
 
-[1장: 협력하는 객체들의 공동체](./1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/chapter1.md)  
+[1장. 협력하는 객체들의 공동체](./1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/chapter1.md)  
 [2장. 이상한 나라의 객체](./1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/chapter2.md)  
 [3장. 타입과 추상화](./1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/chapter3.md)  
 [4장. 역할, 책임, 협력](./1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/chapter4.md)  
