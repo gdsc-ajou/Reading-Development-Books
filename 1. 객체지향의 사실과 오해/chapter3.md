@@ -253,4 +253,5 @@ Type은 시간에 따라 동적으로 변하는 앨리스의 상태를 시간과
     > - UML과 객체지향 모델: [https://luv-n-interest.tistory.com/376](https://luv-n-interest.tistory.com/376)
     > - 정적 모델링: [https://luv-n-interest.tistory.com/377?category=875125](https://luv-n-interest.tistory.com/377?category=875125)
     > - 동적 모델링: [https://luv-n-interest.tistory.com/384?category=875125](https://luv-n-interest.tistory.com/384?category=875125)
+    > - Sequence Diagram 설명: https://brownbears.tistory.com/511
     > - Sequence Diagram: [https://mrhook.co.kr/219](https://mrhook.co.kr/219)
